@@ -6,7 +6,7 @@
 
 ## About me
 
-Dog Dad :dog:, Avid Snowboarder :snowboarder:, Arduino Enthusiest :infinity:
+Dog Dad :dog:, Avid Snowboarder :snowboarder:, Arduino Enthusiast :infinity:
 
 <!---
 SlideeScherz/SlideeScherz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
