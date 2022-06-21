@@ -8,6 +8,10 @@
 
 Dog Dad :dog:, Avid Snowboarder :snowboarder:, Arduino Enthusiast :infinity:
 
+Add me on [Linkedin](https://www.linkedin.com/in/scottscherzer/)
+
+Explore my personal website [dashcomputing.net](http://dashcomputing.net.s3-website.us-east-2.amazonaws.com/)
+
 ### Skills
 
 <p align="left">
