@@ -1,10 +1,10 @@
 # Scott Scherzer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&show_icons=true&include_all_commits=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&show_icons=true&include_all_commits=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=slideescherz&langs_count=10&hide=css&layout=compact&card_width=445&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slideescherz&langs_count=10&layout=compact&theme=dark" />
 </a>
 
 ![stats-2](https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&show_icons=true&include_all_commits=true&theme=dark)
