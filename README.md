@@ -4,14 +4,8 @@
   <img height=200 align="center" src="https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&show_icons=true&include_all_commits=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slideescherz&langs_count=10&layout=compact&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slideescherz&langs_count=10&layout=compact&theme=dark&card_width=320" />
 </a>
-
-![stats-2](https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&show_icons=true&include_all_commits=true&theme=dark)
-
-![stats](https://github-readme-stats.vercel.app/api?username=slideescherz&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slideescherz&langs_count=10&hide=css&layout=compact&card_width=445&theme=dark)
 
 ## About me
 
