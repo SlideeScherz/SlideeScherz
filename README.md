@@ -1,6 +1,6 @@
 # Scott Scherzer
 
-![stats-2]("https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&count_private=true&show_icons=true&include_all_commits=true&theme=dark")
+![stats-2](https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&theme=dark)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=slideescherz&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
 
