@@ -1,4 +1,6 @@
-# Scott Scherzer
+<!--- https://leviarista.github.io/github-profile-header-generator/ --->
+![github-header-image](https://github.com/SlideeScherz/SlideeScherz/assets/70346066/4512127d-4ffe-416a-9f2e-0440d2c36ce7)
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-git-master-slideescherz.vercel.app/api?username=slideescherz&show_icons=true&include_all_commits=true&theme=dark" />
